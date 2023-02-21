@@ -1,6 +1,7 @@
 # QC_Fall2022
 
-Cummulative project for CSCI 313 - Data Structures at Queens College.
+CSCI 313 - Discrete Structures cummulative project for Fall 2022 semester @ Queens College
+Author: Luiz Felipe Lemos (lfclemos12)
 
 This program aims to simulate a class registration program similar to those at
 many American universities.
